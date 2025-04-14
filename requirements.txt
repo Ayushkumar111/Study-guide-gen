@@ -6,3 +6,4 @@ tavily-python
 fpdf
 streamlit 
 python-dotenv
+langchain-community
