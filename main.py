@@ -152,7 +152,7 @@ builder.add_conditional_edges(
 
 builder.set_entry_point("search")
 builder.add_edge("search", "summarize")
-builder.add_edge("summarize", "study_plann")
+
 builder.add_edge("study_plann", "resourcess")
 builder.add_edge("resourcess", "output")
 builder.set_finish_point("output")
