@@ -1,0 +1,7 @@
+langchain 
+langgraph 
+langsmith 
+langchain-google-genai
+tavily-python
+fpdf
+streamlit 
